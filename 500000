@@ -1,0 +1,9 @@
+clone https://github.com/dbovie/BSC4452_HW.git
+git clone https://github.com/dbovie/BSC4452_HW.git
+ls
+cd 
+cd BSC4452_HW
+ls
+git add .
+git commit -m "Add Problem Set 3"
+git push -u origin master
